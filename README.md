@@ -63,10 +63,3 @@ Where the argument "mount point" is the directory where the filesystem will be m
 ## GG WP
 
 I've struggled to find something appropriate on the internet that talks and treat FUSE in-memory implementation of File Systems, so I made one for future students that want to improve their system programming skills.
-
-You can take this code, share it, use it, do what you want x
-
-Ad maiora,
-[Misu](https://instagram.com/instamisu)
-
-
