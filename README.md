@@ -1,4 +1,4 @@
-# FTFS: Family Tree FUSE File System implementation
+# FTFS: Family Tree FUSE File System
 
 [Fuse](https://en.wikipedia.org/wiki/Filesystem_in_Userspace) allows one
 to create their own file system without editing kernel code. We're using in-memory approach to evaluate and implement a simple File System structure, based on file nodes' parenthood from the root node.
